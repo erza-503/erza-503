@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning React js<br>🎯 Goals: Be a fullstack dev<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React js<br>🎯 Goals: Be a fullstack dev<br>🎲 Fun fact: I love anime </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with VScode of course</h2>
 
 ###
 
