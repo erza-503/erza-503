@@ -66,3 +66,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/erza-503/erza-503/output/snake.svg" alt="Snake animation" />
+
+###
