@@ -42,9 +42,15 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/3e/9b/25/3e9b25811c481fb8a3d6c87f8ac7a857.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/3e/9b/25/3e9b25811c481fb8a3d6c87f8ac7a857.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/erza-503/erza-503/output/snake.svg" alt="Snake animation" />
 
@@ -58,7 +64,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erza-503&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="142" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=erza-503&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=erza-503&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
