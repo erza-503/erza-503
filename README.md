@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on<br>I’m currently working on a Laravel and React.js project, focusing on seamless backend and frontend integration.<br><br>👯 I’m looking to collaborate on<br>I’m looking to collaborate on modern web application development projects, especially those using React.js, Laravel, or TailwindCSS.<br><br>🤝 I’m looking for help with<br>I’m seeking help or insights on optimizing workflows between frontend and backend teams to improve efficiency.<br><br>🌱 I’m currently learning<br>I’m currently learning:<br><br>Team collaboration techniques (frontend-backend-UI/UX).<br>Better API integration practices between Laravel and React.js.<br>Building dynamic features with TailwindCSS for responsive interfaces.<br><br>⚡ Fun fact<br>I love Anime</p>
+<p align="left">🔭 I’m currently working on<br>I’m currently working on a Laravel and React.js project, focusing on seamless backend and frontend integration.<br><br>👯 I’m looking to collaborate on<br>I’m looking to collaborate on modern web application development projects, especially those using React.js, Laravel, or TailwindCSS.<br><br>🤝 I’m looking for help with<br>I’m seeking help or insights on optimizing workflows between frontend and backend teams to improve efficiency.<br><br>🌱 I’m currently learning<br>I’m currently learning:<br>- Team collaboration techniques (frontend-backend-UI/UX).<br>- Better API integration practices between Laravel and React.js.<br>- Building dynamic features with TailwindCSS for responsive interfaces.<br><br>⚡ Fun fact<br>I love Anime</p>
 
 ###
 
@@ -56,7 +56,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erza-503&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=erza-503&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=erza-503&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=erza-503&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
