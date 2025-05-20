@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="center">My name is Rendy and I'm a Frontend developer, from Indonesia 🇮🇩</p>
+<p align="center">My name is Rendy and I'm a Frontend developer, from Indonesia 🏠🔥</p>
 
 ###
 
@@ -45,8 +45,6 @@
 <h1 align="left"></h1>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/erza-503/erza-503/output/snake.svg" alt="Snake animation" />
 
