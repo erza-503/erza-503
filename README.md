@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="center">Heyhoo, What's up 🖐️ </h1>
+<h1 align="center">Heyoo, What's up 🖐️ </h1>
 
 ###
 
 <br clear="both">
 
-<p align="center">My name is Rendy and I'm a Frontend developer, from Indonesia</p>
+<p align="center">My name is Rendy and I'm a Frontend developer, from Indonesia </p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="center">"Always love to Learn new  a thing📃"</h6>
+<h6 align="center">"Always love to Learn new a thing📃"</h6>
 
 ###
 
