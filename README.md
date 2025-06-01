@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="left">💫 About Me:</h1>
+<h1 align="left">💫 About Me</h1>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="left">💻 Tech Stack:</h1>
+<h1 align="left">💻 Tech Stack</h1>
 
 ###
 
