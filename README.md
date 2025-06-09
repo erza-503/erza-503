@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="center">"Always love to Learn new a things 📃"</h6>
+<h6 align="center">"Always love to Learn new a things and interest for new project"</h6>
 
 ###
 
