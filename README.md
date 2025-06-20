@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="center">My name is Rendy and I'm a Frontend developer, from Indonesia, Denpasar Bali 🌴</p>
+<p align="center">My name is Rendy and I'm a Frontend developer, from Indonesia 🥰 </p>  
 
 ###
 
