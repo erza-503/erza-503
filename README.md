@@ -1,28 +1,28 @@
 <br clear="both">
 
-<h1 align="center">Hello, What's up 🖐️ </h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
 <br clear="both">
 
-<p align="center">My name is Rendy and I'm a Frontend developer, from Indonesia 🥰 </p>  
+<p align="center">My name is Rendy and I'm a Frontend developer, from Indonesia 🏠🔥</p>
 
 ###
 
-<h1 align="left">💫 About Me</h1>
+<h1 align="left">💫 About Me:</h1>
 
 ###
 
-<h6 align="center">"Always love to Learn new a things and interest for new project 💸"</h6>
+<h6 align="center">"Always love to Learn new  a thing📃"</h6>
 
 ###
 
-<p align="left">🔭 I’m currently working on <br>I’m currently working on a Laravel and React.js project, focusing on seamless backend and frontend integration.<br><br>👯 I’m looking to collaborate on<br>I’m looking to collaborate on modern web application development projects, especially those using React.js, Laravel, or TailwindCSS.<br><br>🤝 I’m looking for help with<br>I’m seeking help or insights on optimizing workflows between frontend and backend teams to improve efficiency.<br><br>🌱 I’m currently learning: <br>- Team collaboration techniques (frontend-backend-UI/UX).<br>- Building dynamic features with TailwindCSS for responsive and interactive interfaces.<br>
+<p align="left">🔭 I’m currently working on<br>I’m currently working on a Laravel and React.js project, focusing on seamless backend and frontend integration.<br><br>👯 I’m looking to collaborate on<br>I’m looking to collaborate on modern web application development projects, especially those using React.js, Laravel, or TailwindCSS.<br><br>🤝 I’m looking for help with<br>I’m seeking help or insights on optimizing workflows between frontend and backend teams to improve efficiency.<br><br>🌱 I’m currently learning<br>I’m currently learning:<br>- Team collaboration techniques (frontend-backend-UI/UX).<br>- Better API integration practices between Laravel and React.js.<br>- Building dynamic features with TailwindCSS for responsive interfaces.<br><br>⚡ Fun fact<br>I love Anime</p>
 
 ###
 
-<h1 align="left">💻 Tech Stack</h1>
+<h1 align="left">💻 Tech Stack:</h1>
 
 ###
 
