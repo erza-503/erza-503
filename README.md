@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="350" src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/the%20git%20pfp.gif?raw=true"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h1 align="center">Hey 👋 What's up?</h1>
@@ -6,7 +12,7 @@
 
 <br clear="both">
 
-<p align="center">My name is Rendy and I'm a Frontend developer, from Indonesia 🏠</p>
+<h4 align="center">My name is Rendy and I'm a Frontend developer, from Indonesia 🏠🔥</h4>
 
 ###
 
@@ -18,7 +24,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on<br>I’m currently working on a Laravel and React.js project, focusing on seamless backend and frontend integration.<br><br>👯 I’m looking to collaborate on<br>I’m looking to collaborate on modern web application development projects, especially those using React.js, Laravel, or TailwindCSS.<br><br>🤝 I’m looking for help with<br>I’m seeking help or insights on optimizing workflows between frontend and backend teams to improve efficiency.<br><br>🌱 I’m currently learning<br>I’m currently learning:<br>- Team collaboration techniques (frontend-backend-UI/UX).<br>- Better API integration practices between Laravel and React.js.<br>- Building dynamic features with TailwindCSS for responsive interfaces.<br><br>⚡ Fun fact<br>I love Anime </p>
+<p align="left">🔭 I’m currently working on<br>I’m currently working on a Laravel and React.js project, focusing on seamless backend and frontend integration.<br><br>👯 I’m looking to collaborate on<br>I’m looking to collaborate on modern web application development projects, especially those using React.js, Laravel, or TailwindCSS.<br><br>🤝 I’m looking for help with<br>I’m seeking help or insights on optimizing workflows between frontend and backend teams to improve efficiency.<br><br>🌱 I’m currently learning<br>I’m currently learning:<br>- Team collaboration techniques (frontend-backend-UI/UX).<br>- Better API integration practices .<br>- Building dynamic features with TailwindCSS for responsive interfaces.<br><br>⚡ Fun fact<br>I love Anime</p>
 
 ###
 
@@ -57,12 +63,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erza-503&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=erza-503&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=b32pfgqghdfu6mnwh7z0zrfi1" alt="Spotify recently played"  />
 </div>
 
 ###
