@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on<br>I’m currently working on a Laravel and React.js project, focusing on seamless backend and frontend integration.<br><br>👯 I’m looking to collaborate on<br>I’m looking to collaborate on modern web application development projects, especially those using React.js, Laravel, or TailwindCSS.<br><br>🤝 I’m looking for help with<br>I’m seeking help or insights on optimizing workflows between frontend and backend teams to improve efficiency.<br><br>🌱 I’m currently learning<br>I’m currently learning:<br>- Team collaboration techniques (frontend-backend-UI/UX).<br>- Better API integration practices .<br>- Building dynamic features with TailwindCSS for responsive interfaces.<br><br>⚡ Fun fact<br>I love Anime</p>
+<p align="left">🔭 I’m currently working on<br>I’m currently working on a Laravel and React.js project, focusing on seamless backend and frontend integration.<br><br>👯 I’m looking to collaborate on<br>I’m looking to collaborate on modern web application development projects, especially those using React.js, Laravel, or TailwindCSS.<br><br>🤝 I’m looking for help with<br>I’m seeking help or insights on optimizing workflows between frontend and backend teams to improve efficiency.<br><br>🌱 I’m currently learning<br>I’m currently learning:<br>- Team collaboration techniques (frontend-backend-UI/UX).<br>- Better API integration practices .<br>- Building dynamic features with TailwindCSS for responsive interfaces.<br>
 
 ###
 
