@@ -58,10 +58,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/erza-503/erza-503/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-
-  <img src="https://streak-stats.demolab.com?user=erza-503&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
